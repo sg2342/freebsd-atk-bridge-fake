@@ -1,10 +1,9 @@
-prefix=/usr/local
-includedir=$(prefix)/include
+includedir=/usr/local/include
 
 Name: atk-bridge-2.0
 Description: ATK/D-Bus Bridge FAKE
 Version: 2.12.1
 Requires.Private: 
 Libs: 
-Cflags: -I${includedir} 
+Cflags: -I${includedir}
 
