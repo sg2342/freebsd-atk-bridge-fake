@@ -1,0 +1,6 @@
+atk-bridge-fake from sabotage
+
+    atk-bridge is the only dependency of gtk+3 that directly depends on
+    dbus. since we don't dbus, we supply a fake package.
+
+WWW: http://pkg.sabotage.tech/process.cgi?action=pkgoverview&pkg=atk-bridge-fake

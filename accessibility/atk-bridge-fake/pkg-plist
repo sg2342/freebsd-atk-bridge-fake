@@ -1,0 +1,2 @@
+include/atk-bridge.h
+libdata/pkgconfig/atk-bridge-2.0.pc
